@@ -1,0 +1,1 @@
+# lisk_wallet_endpoint
